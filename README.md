@@ -1,7 +1,7 @@
 # Kickstarter-Campaign-Analysis
 This repository is about the analysis of the 2018 Kickstarter Campaign. This includes data exploration, data cleaning, making the right questions, and data analysis using Pandas and Seaborn.
 
-## What is kickstarter?
+## What is Kickstarter?
 
 Kickstarter is a funding platform for creative projects. Everything from films, games, and music to art, design, and technology. Kickstarter is full of ambitious, innovative, and imaginative ideas that are brought to life through the direct support of others.
 
